@@ -5,3 +5,25 @@ a {
 .important {
   color: #a5b4fc;
 }
+
+h1 {
+  font-size: 3.5em;
+  color: #A5B4FC;
+}
+
+p {
+  font-size: 1.1em;
+  font-family: 'Manrope', sans-serif;
+}
+
+ul {
+  font-size: 1em;
+  font-family: 'Manrope', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1em;
+  font-family: 'Manrope', sans-serif;
+}
+
